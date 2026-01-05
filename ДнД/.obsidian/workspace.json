@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "3bb9c92865de02f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "98506ff5d73c7651",
+        "type": "tabs",
+        "dimension": 52.4746192893401,
+        "children": [
+          {
+            "id": "b1c88a52db8ad5b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Игры/Игра 1/Ключевые события 1 игры.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ключевые события 1 игры"
+            }
+          }
+        ]
+      },
+      {
+        "id": "3a52d6f19f18e764",
+        "type": "tabs",
+        "dimension": 47.525380710659896,
+        "children": [
+          {
+            "id": "c6166e3b69ea4d36",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "471a4ef2f50a44f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "7774b803ff7fabe7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6970e6e9ae7a1f29",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e77ffa42cde85844",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "97e288fbbbd29f22",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d0ffba7f72e4667e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a76e7f9b858163f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc2148fbe0ee5eab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Игры/Игра 1/Ключевые события 1 игры.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Ключевые события 1 игры"
+            }
+          },
+          {
+            "id": "7494aa1e65fafb9c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "af82281dd8f38202",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "be0354d5161827d6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "93e8e2f41f6ab413",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2026-01-04.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2026-01-04"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
+    }
+  },
+  "active": "b1c88a52db8ad5b9",
+  "lastOpenFiles": [
+    "Игроки/Лёха Ягермейстер.md",
+    "Игроки/Арс.md",
+    "События/Дарданическая эра/Дарданическая эра.md",
+    "События/Дарданическая эра/Война Пламени и Пепла.md",
+    "Классы/Заклинатель/Заклинатель.md",
+    "Карты/глубокозадье.jpg",
+    "Карты/глубокозадье_расы.jpg",
+    "Карты/Карта.md",
+    "Игроки/Афоня.md",
+    "Игроки/Марк.md",
+    "Игроки/Рита.md",
+    "Игроки/Паша.md",
+    "Игроки/Катя.md",
+    "Классы/Искажённый/Искажённый.md",
+    "Классы/Чернокнижник/Чернокнижник.md",
+    "Классы/Белокнижник/Белокнижник.md",
+    "Классы/Волшебник/Волшебник.md",
+    "Классы/Варлок/Варлок.md",
+    "Регионы/Конклав Искр/Конклав Искр.md",
+    "Классы/Волшебник/Untitled",
+    "Классы/Волшебник",
+    "Регионы/Миар.md",
+    "Регионы/Эфос.md",
+    "Регионы/Контар.md",
+    "Регионы/Дервадские острова.md",
+    "Регионы/Движущиеся пики.md",
+    "Регионы/Глубинки.md",
+    "Регионы/Султанат Асс`Авор/Фархан.md",
+    "Регионы/Султанат Асс`Авор/Султанат Асс`Авор.md",
+    "Регионы/Конклав Искр/Хрономир.md",
+    "Карты/Глубокозадье_чистое.jpg",
+    "Регионы/Альбион",
+    "Регионы/Султанат Асс`Авор",
+    "Карты",
+    "Таверны",
+    "Важные нпс",
+    "События/Дарданическая эра",
+    "Игры/Игра 1",
+    "Игры",
+    "Untitled.canvas"
+  ]
+}
